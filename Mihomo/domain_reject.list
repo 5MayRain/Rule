@@ -1,0 +1,45 @@
+# 作业帮
++.httpdns.zybang.com
+# 汽水音乐
++.vr.gdt.qq.com
+# 反诈中心
++.gjfzpt.cn
++.fzapp-test-tyy.gjfzpt.cn
++.oss.gjfzpt.cn
++.fzapp.gjfzpt.cn
++.fzapph5.gjfzpt.cn
+# 国家平台
++.miit.gov.cn
++.mps.gov.cn
++.beian.miit.gov.cn
++.ywtbapi.mps.gov.cn
++.beian.mps.gov.cn
++.mail.mps.gov.cn
++.ywtb.mps.gov.cn
++.ngo.mps.gov.cn
++.m.mps.gov.cn
++.dbjb.mps.gov.cn
++.ispl.mps.gov.cn
++.ecidewc.mps.gov.cn
++.cyberpolice.mps.gov.cn
++.app.mps.gov.cn
++.zlbj.mps.gov.cn
++.zwfw.mps.gov.cn
++.ecidcwc.mps.gov.cn
++.www.mps.gov.cn
+# Error Trackers
+*.browser.sentry-cdn.com
+# 小米
+*.api.ad.xiaomi.com
+*.data.mistat.xiaomi.com
+*.sdkconfig.ad.xiaomi.com
+*.tracking.miui.com
+*.tracking.india.miui.com
+# 华为
+*.metrics.data.hicloud.com
+*.metrics1.data.hicloud.com
+*.logservice.hicloud.com
+*.logservice1.hicloud.com
+*.logbak.hicloud.com
+# 三星
+*.analytics-api.samsunghealthcn.com
