@@ -1,0 +1,9 @@
+# 手机管家
+@@||srv.sec.miui.com^
+# 小米主题
+@@||thm.market.xiaomi.com^
+# 小米社区
+@@||api.vip.miui.com^
+# 讯飞输入法
+@@||inputnlp.xfinfr.com^
+@@||imeclient.openspeech.cn^
