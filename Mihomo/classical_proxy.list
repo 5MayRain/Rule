@@ -1,13 +1,16 @@
-# PikPak
-DOMAIN-KEYWORD,mypikpak
-# 磁力
-DOMAIN-KEYWORD,rarbg
+# 自动更新时间：2025-12-22 20:53:37
+# 规则数量：16
+
+DOMAIN-SUFFIX,powanjuan.cc
+DOMAIN-SUFFIX,trxs.me
+DOMAIN-SUFFIX,trxs.cc
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,rarbg.net
+DOMAIN-SUFFIX,rarbg.com
 DOMAIN-SUFFIX,sukebei.nyaa.si
-# 图库
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,2img.org
-# Yellow
-DOMAIN-KEYWORD,javbus
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,javbus22.com
 DOMAIN-SUFFIX,javcdn.cc
