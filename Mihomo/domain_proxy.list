@@ -1,8 +1,11 @@
-# 自动更新时间：2025-12-26 09:29:19
-# 规则数量：18
+# 自动更新时间：2025-12-26 09:54:28
+# 规则数量：21
 
 +.short.weixin.qq.com
 +.dns.weixin.qq.com.cn
++.android.apis.google.com
++.device-provisioning.googleapis.com
++.firebaseinstallations.googleapis.com
 +.powanjuan.cc
 +.trxs.me
 +.trxs.cc
