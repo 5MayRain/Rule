@@ -1,11 +1,8 @@
-# 自动更新时间：2025-12-26 09:54:28
-# 规则数量：21
+# 自动更新时间：2025-12-26 14:35:05
+# 规则数量：18
 
 DOMAIN-SUFFIX,short.weixin.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com.cn
-DOMAIN-SUFFIX,android.apis.google.com
-DOMAIN-SUFFIX,device-provisioning.googleapis.com
-DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 DOMAIN-SUFFIX,powanjuan.cc
 DOMAIN-SUFFIX,trxs.me
 DOMAIN-SUFFIX,trxs.cc
