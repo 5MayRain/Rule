@@ -1,6 +1,8 @@
-# 自动更新时间：2025-12-26 03:11:33
-# 规则数量：16
+# 自动更新时间：2025-12-26 09:27:35
+# 规则数量：18
 
+DOMAIN-SUFFIX,short.weixin.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,powanjuan.cc
 DOMAIN-SUFFIX,trxs.me
 DOMAIN-SUFFIX,trxs.cc
