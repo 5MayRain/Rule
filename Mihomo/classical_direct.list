@@ -1,5 +1,5 @@
-# 自动更新时间：2025-12-29 07:30:13
-# 规则数量：98
+# 自动更新时间：2025-12-29 20:50:44
+# 规则数量：101
 
 DOMAIN-SUFFIX,thm.market.xiaomi.com
 DOMAIN-SUFFIX,api.vip.miui.com
@@ -100,3 +100,6 @@ IP-CIDR,10.0.0.0/8
 IP-CIDR,127.0.0.0/8
 IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
+IP-CIDR,
+IP-CIDR,119.8.31.0/24
+IP-CIDR,43.248.11.0/24
