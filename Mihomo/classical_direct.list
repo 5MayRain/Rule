@@ -1,5 +1,5 @@
-# 自动更新时间：2026-01-03 07:30:11
-# 规则数量：101
+# 自动更新时间：2026-01-04 07:30:13
+# 规则数量：105
 
 DOMAIN-SUFFIX,thm.market.xiaomi.com
 DOMAIN-SUFFIX,api.vip.miui.com
@@ -96,6 +96,10 @@ DOMAIN-SUFFIX,prod-chat-kimi.tos-cn-beijing.volces.com
 DOMAIN-SUFFIX,vod.api.xn--vhq3x51dn9bivas49nfps.com
 DOMAIN-SUFFIX,kklz.xn--vhq3x51dn9bivas49nfps.com
 DOMAIN-SUFFIX,hsydbnew.xn--vhq3x51dn9bivas49nfps.com
+DOMAIN-SUFFIX,c.umsns.com
+DOMAIN-SUFFIX,i.fotao9.com
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,ccc-x.jd.com
 IP-CIDR,10.0.0.0/8
 IP-CIDR,127.0.0.0/8
 IP-CIDR,172.16.0.0/12
